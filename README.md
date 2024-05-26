@@ -8,19 +8,29 @@
 
  🛠️ Languages:
   Java 
-  Python
+  
+  ![image](https://github.com/sakapanchu/sakapanchu/assets/117504870/896eb241-8e1f-4236-acf8-34ecb24ffbc1)
+Python
+  
   c++
+  
   Git&GitHub
+  
   HTML
+  
   CSS
+  
   JavaScript
+  
   nodejs
 
 ---
 
  🌐 Connect with Me:
  Linked in -- https://www.linkedin.com/in/sakaniya-panchalingam/
+ 
  Email -- sakaaniya2000@gmail.com
+ 
  Twitter -- https://twitter.com/sakaaniya811820
 
 ---
