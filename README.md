@@ -6,23 +6,17 @@
 
 🌟 A passionate and dedicated undergraduate student aiming to transform innovative ideas into reality through programming and web development.
 
- 🛠️ Languages:
-  Java 
-  
-  ![image](https://github.com/sakapanchu/sakapanchu/assets/117504870/896eb241-8e1f-4236-acf8-34ecb24ffbc1)
-Python
-  
-  c++
-  
-  Git&GitHub
-  
-  HTML
-  
-  CSS
-  
-  JavaScript
-  
-  nodejs
+ **Programming Languages**: 
+  - Java ☕
+  - Python 🐍
+  - C++ 💻
+- **Web Development**: 
+  - HTML 🌐
+  - CSS 🎨
+  - JavaScript ⚡
+  - Node.js 🌲
+- **Version Control**: 
+  - Git & GitHub 🐙
 
 ---
 
