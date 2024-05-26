@@ -10,12 +10,12 @@
   - Java ☕
   - Python 🐍
   - C++ 💻
-- **Web Development**: 
+ **Web Development**: 
   - HTML 🌐
   - CSS 🎨
   - JavaScript ⚡
   - Node.js 🌲
-- **Version Control**: 
+ **Version Control**: 
   - Git & GitHub 🐙
 
 ---
